@@ -1,10 +1,10 @@
-# Pocket_Pal
+# Learn a language with AI!
 
 **Disclaimer:** Not all that is presented below is available or implemented in the actual project at the moment. Project Day 1 is 1/27/2025
 
 ## Overview
 
-AI Therapy Companion 
+AI Therapy Companion that helps you learn or improve your ability with a second language. Converse, ask questions, and study!
 
 **Disclaimer:** 
 
